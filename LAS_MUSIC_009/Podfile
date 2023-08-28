@@ -7,21 +7,21 @@ target 'LAS_MUSIC_009' do
 
   # Pods for LAS_MUSIC_009
 
-  pod 'RealmSwift'
-  pod 'Toast-Swift', '~> 5.0.1'
-  pod 'SDWebImage'
+  #pod 'RealmSwift'
+  #pod 'Toast-Swift', '~> 5.0.1'
+  #pod 'SDWebImage'
   
-  pod 'GoogleAPIClientForREST/Drive'
-  pod 'GoogleSignIn'
+  #pod 'GoogleAPIClientForREST/Drive'
+  #pod 'GoogleSignIn'
   
   
-  pod 'BoxSDK', '~> 5.0'
+  #pod 'BoxSDK', '~> 5.0'
 
-  pod 'SwiftyDropbox'
+  #pod 'SwiftyDropbox'
 
-  pod 'MSAL'
-  pod 'ffmpeg-kit-ios-full', '~> 5.1'
-  pod 'UIScrollView-InfiniteScroll', '~> 1.3.0'
-  pod 'youtube-ios-player-helper'
+  #pod 'MSAL'
+  #pod 'ffmpeg-kit-ios-full', '~> 5.1'
+  #pod 'UIScrollView-InfiniteScroll', '~> 1.3.0'
+  #pod 'youtube-ios-player-helper'
   
 end
