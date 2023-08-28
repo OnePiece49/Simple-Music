@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "205B6316-475A-420C-8FCB-C45473C295EA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C68F4C8-927F-4F4F-9F68-61EA96D0FC63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LAS_MUSIC_009/Controllers/Import/OneDriveImportController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "singinBtnTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B7C8179-B9B7-4E32-A1D7-49C33155C1F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LAS_MUSIC_009/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "application(_:open:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "857285DD-353E-4AE3-96F6-D6B2A3A2EB61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LAS_MUSIC_009/Controllers/Import/OneDriveImportController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getTokenInteractively()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "857285DD-353E-4AE3-96F6-D6B2A3A2EB61 - 68436342d4010de5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LAS_MUSIC_009.OneDriveImportController.getTokenInteractively() -&gt; ()"
+                  moduleName = "LAS_MUSIC_009"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tienviet/Desktop/LasBom/LAS_MUSIC_009/LAS_MUSIC_009/LAS_MUSIC_009/Controllers/Import/OneDriveImportController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "857285DD-353E-4AE3-96F6-D6B2A3A2EB61 - 4a7c3def5ffe99cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in LAS_MUSIC_009.OneDriveImportController.getTokenInteractively() -&gt; ()"
+                  moduleName = "LAS_MUSIC_009"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tienviet/Desktop/LasBom/LAS_MUSIC_009/LAS_MUSIC_009/LAS_MUSIC_009/Controllers/Import/OneDriveImportController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EE450B7-2D0A-4EC9-AD73-6770441C994E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LAS_MUSIC_009/Service/OneDriveManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getTokenInteractively(parentController:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1EE450B7-2D0A-4EC9-AD73-6770441C994E - 8301ee9ba3e5a2c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LAS_MUSIC_009.OneDriveManager.getTokenInteractively(parentController: __C.UIViewController, completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LAS_MUSIC_009"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tienviet/Desktop/LasBom/LAS_MUSIC_009/LAS_MUSIC_009/LAS_MUSIC_009/Service/OneDriveManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "479">
+               </Location>
+               <Location
+                  uuid = "1EE450B7-2D0A-4EC9-AD73-6770441C994E - 418fef187ccdf0e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MSALResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LAS_MUSIC_009.OneDriveManager.getTokenInteractively(parentController: __C.UIViewController, completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LAS_MUSIC_009"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tienviet/Desktop/LasBom/LAS_MUSIC_009/LAS_MUSIC_009/LAS_MUSIC_009/Service/OneDriveManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "242">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

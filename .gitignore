@@ -1,0 +1,73 @@
+Last login: Sun Aug 27 21:39:58 on ttys006
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % ls -la
+total 40
+drwxr-xr-x   9 tienviet  staff   288 Aug 27 21:40 .
+drwxr-xr-x   6 tienviet  staff   192 Aug 27 19:46 ..
+-rw-r--r--@  1 tienviet  staff  8196 Aug 20 23:56 .DS_Store
+drwxr-xr-x  24 tienviet  staff   768 Aug 25 00:36 LAS_MUSIC_009
+drwxr-xr-x@  5 tienviet  staff   160 Aug 25 02:10 LAS_MUSIC_009.xcodeproj
+drwxr-xr-x@  5 tienviet  staff   160 Aug 17 18:58 LAS_MUSIC_009.xcworkspace
+-rw-r--r--   1 tienviet  staff   564 Aug 24 03:56 Podfile
+-rw-r--r--   1 tienviet  staff  2925 Aug 24 03:56 Podfile.lock
+drwxr-xr-x  23 tienviet  staff   736 Aug 22 20:27 Pods
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % cd LAS_MUSIC_009
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % ls
+AppDelegate.swift		LAS_MUSIC_009.entitlements
+Assets.xcassets			Lib
+Base				Model
+Base.lproj			Network
+Cell				SceneDelegate.swift
+Constant			Service
+Controllers			Utilities
+CustomView			View
+Extension			ViewModel
+Fonts				Views
+Info.plist
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % vim .gitignore
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % pwd
+/Users/tienviet/Desktop/LasBom/LAS_MUSIC_009/LAS_MUSIC_009/LAS_MUSIC_009
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % cd ..
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % ls -la
+total 40
+drwxr-xr-x   9 tienviet  staff   288 Aug 27 21:40 .
+drwxr-xr-x   6 tienviet  staff   192 Aug 27 19:46 ..
+-rw-r--r--@  1 tienviet  staff  8196 Aug 20 23:56 .DS_Store
+drwxr-xr-x  24 tienviet  staff   768 Aug 27 21:40 LAS_MUSIC_009
+drwxr-xr-x@  5 tienviet  staff   160 Aug 25 02:10 LAS_MUSIC_009.xcodeproj
+drwxr-xr-x@  5 tienviet  staff   160 Aug 17 18:58 LAS_MUSIC_009.xcworkspace
+-rw-r--r--   1 tienviet  staff   564 Aug 24 03:56 Podfile
+-rw-r--r--   1 tienviet  staff  2925 Aug 24 03:56 Podfile.lock
+drwxr-xr-x  23 tienviet  staff   736 Aug 22 20:27 Pods
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % cd ..
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % ls -la
+total 24
+drwxr-xr-x   6 tienviet  staff   192 Aug 27 19:46 .
+drwxr-xr-x@  8 tienviet  staff   256 Aug 13 20:44 ..
+-rw-r--r--@  1 tienviet  staff  6148 Aug 27 21:39 .DS_Store
+drwxr-xr-x  13 tienviet  staff   416 Aug 25 01:21 .git
+-rw-r--r--   1 tienviet  staff  2169 Aug 14 00:35 .gitignore
+drwxr-xr-x   9 tienviet  staff   288 Aug 27 21:40 LAS_MUSIC_009
+tienviet@Tiens-MacBook-Pro LAS_MUSIC_009 % vim .gitignore 
+
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.xcscmblueprint
+*.xccheckout
+
+## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+".gitignore" 90L, 2169B
+

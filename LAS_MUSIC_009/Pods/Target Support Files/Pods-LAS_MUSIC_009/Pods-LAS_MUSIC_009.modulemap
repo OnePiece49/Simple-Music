@@ -1,0 +1,6 @@
+framework module Pods_LAS_MUSIC_009 {
+  umbrella header "Pods-LAS_MUSIC_009-umbrella.h"
+
+  export *
+  module * { export * }
+}
